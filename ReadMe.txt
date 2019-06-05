@@ -1,1 +1,1 @@
-Demo file to start the project.
+Workspace to store Asp.net web applications and other UI Frameworks.
